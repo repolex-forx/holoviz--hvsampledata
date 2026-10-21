@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/holoviz/hvsampledata/commit/4119603311b5ed158020aa345fa7363876282e42",
       "git:hexsha": "4119603311b5ed158020aa345fa7363876282e42",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T19:44:01.231311+00:00"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/hvsampledata/commit/9b33ea5c10712b25a645e63f75d3b23428176301",
